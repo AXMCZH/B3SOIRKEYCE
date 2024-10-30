@@ -1,0 +1,5 @@
+def hello_user(name):
+print(f"Hello,{name}!)
+if_name_=="_main_":
+user_name=input("Entrez votre nom:)
+hello_user(user_name)
